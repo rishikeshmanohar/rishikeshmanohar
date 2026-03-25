@@ -1,18 +1,13 @@
 <div align="center">
 
 ```
-██████╗ ██╗███████╗██╗  ██╗██╗██╗  ██╗███████╗███████╗██╗  ██╗
-██╔══██╗██║██╔════╝██║  ██║██║██║ ██╔╝██╔════╝██╔════╝██║  ██║
-██████╔╝██║███████╗███████║██║█████╔╝ █████╗  ███████╗███████║
-██╔══██╗██║╚════██║██╔══██║██║██╔═██╗ ██╔══╝  ╚════██║██╔══██║
-██║  ██║██║███████║██║  ██║██║██║  ██╗███████╗███████║██║  ██║
-╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
+# Hi, I'm Rishikesh Manohar 👋
 ```
 
 ### `< Software Engineer />` &nbsp;|&nbsp; Backend · Cloud · Full-Stack
 **Java · Spring Boot · AWS · Angular · Microservices**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishikesh_Manohar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikesh-manohar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishikesh_Manohar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rishikeshmanohar)
 [![Email](https://img.shields.io/badge/Email-rmanoha8@asu.edu-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rmanoha8@asu.edu)
 [![Portfolio](https://img.shields.io/badge/Portfolio-GitHub_Pages-24292f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishikeshmanohar)
 
