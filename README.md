@@ -1,8 +1,12 @@
 <div align="center">
 
 ```
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Rishikesh%20Manohar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%C2%B7%20Cloud%20%C2%B7%20Full-Stack&descAlignY=58&descSize=20&descColor=8b949e)
-👋
+██████╗ ██╗███████╗██╗  ██╗██╗██╗  ██╗███████╗███████╗██╗  ██╗
+██╔══██╗██║██╔════╝██║  ██║██║██║ ██╔╝██╔════╝██╔════╝██║  ██║
+██████╔╝██║███████╗███████║██║█████╔╝ █████╗  ███████╗███████║
+██╔══██╗██║╚════██║██╔══██║██║██╔═██╗ ██╔══╝  ╚════██║██╔══██║
+██║  ██║██║███████║██║  ██║██║██║  ██╗███████╗███████║██║  ██║
+╚═╝  ╚═╝╚═╝╚══════╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝
 ```
 
 ### `< Software Engineer />` &nbsp;|&nbsp; Backend · Cloud · Full-Stack
