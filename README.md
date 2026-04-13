@@ -28,7 +28,6 @@ public class Rishikesh extends SoftwareEngineer {
     String[] currentFocus  = { "Scalable Microservices", "Cloud-Native Apps", "Event-Driven Arch." };
     String[] domains       = { "Healthcare (HIPAA)", "FinTech / Fraud Detection", "Supply Chain" };
     String   education     = "M.S. Information Technology — Arizona State University (Dec 2024)";
-    String   location      = "San Francisco Bay Area, CA";
     boolean  openToWork    = true;
 
     String funFact() {
